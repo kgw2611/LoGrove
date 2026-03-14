@@ -1,5 +1,5 @@
 # LoGrove
-| Tag-powered community service for all photographers.
+| Tag-powered community service for all the photographers.
 
 | Built with a Spring Boot backend and a React native client.
 
